@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Problem Solver
 ------------------------------
 
-I'm a passionate Full Stack Web Developer with expertise in Python, Django, and React, building scalable, user-friendly applications. I love solving complex problems, optimizing performance, and creating seamless user experiences. 📌 I’m always open to collaborating on exciting projects, contributing to open-source, and learning new technologies. Let’s connect and build something amazing!
+I'm a passionate Full Stack Web Developer with expertise in Python, Django, and React, building scalable, user-friendly applications. I love solving complex problems, optimizing performance, and creating seamless user experiences. 
+
+📌 I’m always open to collaborating on exciting projects, contributing to open-source, and learning new technologies. Let’s connect and build something amazing!
 
 * ✉️  You can contact me at [tawfiqelahi71@gmail.com](mailto:tawfiqelahi71@gmail.com)
 
